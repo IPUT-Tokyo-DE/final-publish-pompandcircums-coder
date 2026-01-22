@@ -4,7 +4,8 @@
 ## ゲームの内容
 ここにゲームの内容説明を記述する
 
-![画面イメージ](docs/images/game_image01.png)
+![画面イメージ](docs/images/game_i<img width="2331" height="1302" alt="スクリーンショット 2026-01-22 165649" src="https://github.com/user-attachments/assets/7c64e9a0-d91b-4d76-b607-3924153eb3c4" />
+mage01.png)
 
 ## 操作説明
 例
